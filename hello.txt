@@ -1,0 +1,13 @@
+import java .io.*;
+class hello
+{
+public static void main(Stringargs[]);
+{
+Scanner s=new Scaneer(system .in);
+System .out.println("enter a value");
+int a=s.nextInt();
+System .out.println("enter b value"):
+int b=s.nextInt();
+System.out.println("sum of nums is"+(a+b));
+}
+}
